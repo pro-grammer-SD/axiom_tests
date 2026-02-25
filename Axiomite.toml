@@ -1,0 +1,5 @@
+[metadata]
+name = "axiom_tests"
+version = "0.1.0"
+author = "pro-grammer-SD"
+description = "High-performance SIMD-accelerated math extensions for Axiom."
