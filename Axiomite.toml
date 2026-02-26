@@ -1,5 +1,5 @@
 [package]
 name = "axiom_tests"
-version = "0.1.0"
+version = "0.1.1"
 author = "pro-grammer-SD"
-description = "High-performance SIMD-accelerated math extensions for Axiom."
+description = "JUST SOME TESTS for axiom."
